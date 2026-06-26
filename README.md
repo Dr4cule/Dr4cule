@@ -1,11 +1,11 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F86C6,100:6FB1FC&height=200&section=header&text=Dr4cule&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F86C6,100:6FB1FC&height=200&section=header&text=Dr4cule&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/Dr4cule">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=4F86C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dr4cule+%F0%9F%91%8B;JavaScript+Developer+in+the+making;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=4F86C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dr4cule+%F0%9F%91%8B;Full+Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,10 +20,11 @@
 <!-- ====================== ABOUT ====================== -->
 ## 👋 About Me
 
-Hi, I'm **Dr4cule** — a developer currently focused on building a strong foundation in **JavaScript** and modern web development. I'm passionate about writing clean code, learning new technologies, and turning ideas into working software.
+Hi, I'm **Dr4cule** — a **Full Stack Developer** who enjoys building end-to-end web applications, from intuitive frontends to robust backends. I'm passionate about writing clean code, learning new technologies, and turning ideas into working software.
 
-- 🌱 &nbsp; Currently learning **JavaScript** and web fundamentals
-- 💡 &nbsp; Interested in **web development** and building useful projects
+- 💻 &nbsp; Full stack web development across the frontend and backend
+- 🌱 &nbsp; Always exploring new tools and frameworks
+- 💡 &nbsp; Interested in building useful, well-crafted projects
 - 🤝 &nbsp; Open to collaborating on interesting projects
 - 📫 &nbsp; Reach me on **Discord:** `Dr4cule`
 - 😄 &nbsp; Pronouns: **He/Him**
