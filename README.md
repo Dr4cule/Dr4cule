@@ -33,25 +33,7 @@ Hi, I'm **Dr4cule** — a developer currently focused on building a strong found
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python&theme=light" alt="languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,sass&theme=light" alt="frontend" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis&theme=light" alt="backend" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,linux&theme=light" alt="devops" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=light" alt="tools" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,react,vite,nodejs,express,mongodb,postgres,mysql,redis,aws,docker,kubernetes,nginx,githubactions,linux,git,github,vscode,figma,postman,npm&theme=light&perline=9" alt="tech stack" />
 
 </div>
 
@@ -80,15 +62,6 @@ Hi, I'm **Dr4cule** — a developer currently focused on building a strong found
 
 </div>
 
-<!-- ====================== TROPHIES ====================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dr4cule&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
 <!-- ====================== CONNECT ====================== -->
 ## 🔗 Connect With Me
 
@@ -107,7 +80,5 @@ Hi, I'm **Dr4cule** — a developer currently focused on building a strong found
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,100:4F86C6&height=120&section=footer" alt="footer"/>
-
-<sub>Thanks for visiting! ⭐️ from <a href="https://github.com/Dr4cule">Dr4cule</a></sub>
 
 </div>
