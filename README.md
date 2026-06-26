@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F86C6,100:6FB1FC&height=200&section=header&text=Dr4cule&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F86C6,100:6FB1FC&height=200&section=header&text=Dr4cule&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20&descAlignY=58&descSize=18" alt="header"/>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/Dr4cule">
