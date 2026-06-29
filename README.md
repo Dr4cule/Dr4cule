@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F86C6,100:6FB1FC&height=200&section=header&text=Dr4cule&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:880808,100:D70040&height=200&section=header&text=Dr4cule&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/Dr4cule">
@@ -89,6 +89,6 @@ Hi, I'm **Dr4cule** — a **Full Stack Developer** who enjoys building end-to-en
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,100:4F86C6&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:880808,100:D70040&height=120&section=footer" alt="footer"/>
 
 </div>
