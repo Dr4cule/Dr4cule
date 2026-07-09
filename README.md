@@ -5,34 +5,35 @@
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/Dr4cule">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=4F86C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dr4cule+%F0%9F%91%8B;Full+Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=D70040&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dr4cule+%F0%9F%91%8B;Full+Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dr4cule&label=Profile%20Views&color=4F86C6&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Dr4cule&label=Profile%20Views&color=D70040&style=for-the-badge" alt="profile views" />
 <a href="https://github.com/Dr4cule?tab=followers">
-  <img src="https://img.shields.io/github/followers/Dr4cule?label=Followers&style=flat-square&color=4F86C6" alt="followers" />
+  <img src="https://img.shields.io/github/followers/Dr4cule?label=Followers&style=for-the-badge&color=D70040&labelColor=1a1a1a" alt="followers" />
+</a>
+<a href="https://github.com/Dr4cule?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dr4cule&query=$.public_repos&label=Repos&style=for-the-badge&color=880808&labelColor=1a1a1a" alt="public repos" />
 </a>
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
 <!-- ====================== ABOUT ====================== -->
-## 👋 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 Hi, I'm **Dr4cule** — a **Full Stack Developer** who enjoys building end-to-end web applications, from intuitive frontends to robust backends. I'm passionate about writing clean code, learning new technologies, and turning ideas into working software.
 
-- 💻 &nbsp; Full stack web development across the frontend and backend
-- 🌱 &nbsp; Always exploring new tools and frameworks
-- 💡 &nbsp; Interested in building useful, well-crafted projects
-- 🤝 &nbsp; Open to collaborating on interesting projects
-- 📫 &nbsp; Reach me on **Discord:** `Dr4cule`
-- 😄 &nbsp; Pronouns: **He/Him**
+```yaml
+role:       Full Stack Developer
+focus:      end-to-end web apps  ·  clean, maintainable code
+learning:   always exploring new tools & frameworks
+open to:    collaborating on interesting projects
+pronouns:   He / Him
+discord:    Dr4cule
+```
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack & Tools
@@ -48,14 +49,14 @@ Hi, I'm **Dr4cule** — a **Full Stack Developer** who enjoys building end-to-en
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dr4cule&show_icons=true&theme=default&count_private=true&hide_border=true&title_color=4F86C6&icon_color=4F86C6&text_color=333333" alt="stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4cule&layout=compact&theme=default&hide_border=true&title_color=4F86C6&text_color=333333" alt="top langs" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dr4cule&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=D70040&icon_color=D70040&text_color=333333" alt="stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4cule&layout=compact&hide_border=true&bg_color=ffffff&title_color=D70040&text_color=333333" alt="top langs" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dr4cule&theme=default&hide_border=true&stroke=4F86C6&ring=4F86C6&fire=4F86C6&currStreakLabel=4F86C6" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Dr4cule&hide_border=true&background=ffffff&stroke=D70040&ring=D70040&fire=880808&currStreakLabel=D70040&sideLabels=333333&dates=999999&currStreakNum=333333&sideNums=333333" alt="streak" />
 
 </div>
 
@@ -64,24 +65,20 @@ Hi, I'm **Dr4cule** — a **Full Stack Developer** who enjoys building end-to-en
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dr4cule&theme=github-light&bg_color=ffffff&color=4F86C6&line=4F86C6&point=333333&hide_border=true&area=true" alt="activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dr4cule&bg_color=ffffff&color=880808&line=D70040&point=333333&area=true&area_color=D70040&hide_border=true" alt="activity graph" />
 
 </div>
 
 <!-- ====================== CONNECT ====================== -->
 ## 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-</p>
-
 <div align="center">
 
 <a href="https://discord.com/users/Dr4cule">
-  <img src="https://img.shields.io/badge/Discord-Dr4cule-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord" />
+  <img src="https://img.shields.io/badge/Discord-Dr4cule-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
 </a>
 <a href="https://github.com/Dr4cule">
-  <img src="https://img.shields.io/badge/GitHub-Dr4cule-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/GitHub-Dr4cule-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 
 </div>
