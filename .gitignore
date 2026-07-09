@@ -1,0 +1,10 @@
+# Local config — contains secrets / API keys, never commit
+opencode.json
+
+# Common local/editor artifacts
+.env
+.env.*
+*.local
+.DS_Store
+.vscode/
+.idea/
