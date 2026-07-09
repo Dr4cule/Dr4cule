@@ -21,6 +21,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <!-- ====================== ABOUT ====================== -->
 ## 👋 About Me
 
@@ -54,7 +58,7 @@ Hi, I'm **Dr4cule** — a **Full Stack Developer** who enjoys building end-to-en
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Dr4cule&theme=default&hide_border=true&background=ffffff&stroke=4F86C6&ring=4F86C6&fire=4F86C6&currStreakLabel=4F86C6&sideLabels=333333&dates=888888" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Dr4cule&theme=default&hide_border=true&background=ffffff&stroke=4F86C6&ring=4F86C6&fire=4F86C6&currStreakLabel=4F86C6&sideLabels=333333&dates=888888&v=2" alt="streak" />
 
 </div>
 
@@ -67,13 +71,12 @@ Hi, I'm **Dr4cule** — a **Full Stack Developer** who enjoys building end-to-en
 
 </div>
 
-<!-- ====================== SNAKE ANIMATION ====================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <!-- ====================== CONNECT ====================== -->
 ## 🔗 Connect With Me
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
 
 <div align="center">
 
